@@ -11,9 +11,6 @@ void main(List<String> arguments) {
   print("Supp roba kills");
   print("El lol es una basura");
   print("N");
-<<<<<<< Updated upstream
-=======
-=======
   print("prueba");
   print("Hola mi hermano");
 =======
