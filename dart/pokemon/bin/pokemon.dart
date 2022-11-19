@@ -8,12 +8,9 @@ void main(List<String> arguments) {
   print("guachasos");
   print('actualizacion de commit');
   print("jose no llego lo tuyo");
-<<<<<<< HEAD
   print("Supp roba kills");
   print("El lol es una basura");
   print("N");
-=======
-  print("prueba");
-  print("Hola mi hermano");
->>>>>>> master
+  print("El lol es una basura")
+
 }
