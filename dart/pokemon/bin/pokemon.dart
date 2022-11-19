@@ -3,6 +3,9 @@ import 'package:pokemon/pokemon.dart' as pokemon;
 void main(List<String> arguments) {
   print('Hello world: ${pokemon.calculate()}!');
   // Commentarios
+<<<<<<< HEAD
+print('nerf akaly');
+=======
 
   print('hola perros');
   print("guachasos");
@@ -15,4 +18,5 @@ void main(List<String> arguments) {
   print("Hola mi hermano");
 =======
 >>>>>>> Stashed changes
+>>>>>>> master
 }
