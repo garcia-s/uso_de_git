@@ -4,10 +4,5 @@ void main(List<String> arguments) {
   print('Hello world: ${pokemon.calculate()}!');
   // Commentarios
 
-<<<<<<< HEAD
-print("El jungla y el supp son robas kills");
-
-=======
-  print('nerf akaly');
->>>>>>> master
+ print("Si mi jungla no me ayuda cuando me muero es su culpa");
 }
